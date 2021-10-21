@@ -1,0 +1,53 @@
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    line-height: 3;
+    text-align: center;
+    font-family: cursive;
+}
+
+body {
+    background-color:rgb(255, 235, 215);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:bold;
+    color: black;
+}
+
+.disease_h {
+    border: black 4px solid;
+    border-radius: 25px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    margin-bottom: 40px;
+    margin-top: 15px;
+    background-color: grey;
+}
+
+.disease_p {
+    color: black;
+    font-size: large;
+    margin-bottom: 50px;
+}
+
+.ty_btn {
+    margin-bottom: 50px;
+}
+
+.back_button {
+    margin-bottom: 50px;
+    border: black 3px solid;
+    font-size: 30px;
+}
+
+.cr {
+    color: black;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: large;
+    font-weight: bold;
+}
